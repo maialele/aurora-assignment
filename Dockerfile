@@ -1,4 +1,4 @@
-FROM python:3.9-slim-buster
+FROM python:alpine
 WORKDIR /app
 COPY main.py .
-CMD ["python", "main.py"]
+CMD ["python", "main.py"]                             
