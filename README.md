@@ -1,6 +1,6 @@
-# aurora-assignment
+# Aurora Assignment
 
-*How to Run this app*
+**How to Run this app**
 
 first build the image:
 ```
