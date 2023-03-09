@@ -1,6 +1,7 @@
 # aurora-assignment
 
-How to Run this app
+*How to Run this app*
+
 first build the image:
 ```
 docker-compose build
