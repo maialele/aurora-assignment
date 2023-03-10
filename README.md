@@ -12,4 +12,4 @@ docker-compose up
 ```
 
 
-**This App has a Jenkins build trigger on Pull Request**
+*This App has a Jenkins build trigger on Pull Request*
