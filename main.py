@@ -1,1 +1,1 @@
-print("Devops is test")
+print("Devops is great")
